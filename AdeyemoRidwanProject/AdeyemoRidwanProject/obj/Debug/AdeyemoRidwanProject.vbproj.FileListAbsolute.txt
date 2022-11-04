@@ -1,0 +1,20 @@
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\bin\Debug\AdeyemoRidwanProject.exe.config
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\bin\Debug\AdeyemoRidwanProject.exe
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\bin\Debug\AdeyemoRidwanProject.pdb
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\bin\Debug\AdeyemoRidwanProject.xml
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.Form1.resources
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.Resources.resources
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.vbproj.GenerateResource.Cache
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.exe
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.xml
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.pdb
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\bin\Debug\AdeyemoRidwanProject.exe.config
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.exe
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.xml
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.pdb
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\bin\Debug\AdeyemoRidwanProject.exe
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\bin\Debug\AdeyemoRidwanProject.pdb
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\bin\Debug\AdeyemoRidwanProject.xml
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.Resources.resources
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.vbproj.GenerateResource.Cache
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanProject\AdeyemoRidwanProject\obj\Debug\AdeyemoRidwanProject.QuadraticEquation.resources

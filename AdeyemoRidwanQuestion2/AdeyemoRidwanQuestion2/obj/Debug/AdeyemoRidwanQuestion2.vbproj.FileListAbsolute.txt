@@ -1,0 +1,20 @@
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\bin\Debug\AdeyemoRidwanQuestion2.exe.config
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\bin\Debug\AdeyemoRidwanQuestion2.exe
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\bin\Debug\AdeyemoRidwanQuestion2.pdb
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\bin\Debug\AdeyemoRidwanQuestion2.xml
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.GradeCalculator.resources
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.Resources.resources
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.vbproj.GenerateResource.Cache
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.exe
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.xml
+C:\Users\AYO\AppData\Local\Temporary Projects\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.pdb
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\bin\Debug\AdeyemoRidwanQuestion2.exe.config
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.exe
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.xml
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.pdb
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\bin\Debug\AdeyemoRidwanQuestion2.exe
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\bin\Debug\AdeyemoRidwanQuestion2.pdb
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\bin\Debug\AdeyemoRidwanQuestion2.xml
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.GradeCalculator.resources
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.Resources.resources
+C:\Users\AYO\Documents\Visual Studio 2012\Projects\AdeyemoRidwanQuestion2\AdeyemoRidwanQuestion2\obj\Debug\AdeyemoRidwanQuestion2.vbproj.GenerateResource.Cache
